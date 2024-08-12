@@ -1,6 +1,5 @@
 # SupeSimpleScanner
 
-<hr>
 
 <h3 >Problema:</h3>
 Realizar un Scanner el cual se Ingrese una frase y que contabilice los caracteres.
