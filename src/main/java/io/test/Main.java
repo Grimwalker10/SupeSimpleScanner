@@ -26,7 +26,7 @@ public class Main {
             for (Map.Entry<Character, Integer> entrada : contador.entrySet()) {
                 System.out.println(entrada.getKey() + "=" + entrada.getValue());
             }
-            System.out.println("La frase contiene " + frase.length() + " caracteres.");
+            System.out.println("La frase contiene " + frase.length() + " caracteres, con " + contador.size() + " caracteres unicos.");
             System.out.println();
         }
 
